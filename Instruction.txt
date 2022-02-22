@@ -1,0 +1,12 @@
+To implement the given two tasks
+pre-requisite should have a edge webdriver based on edge installed in your pc at the folder
+and also should have the input.xslx and ouput data structure.xlsx file in the directory
+
+1st create a folder articleData in you directory where your txt files will be stored
+
+2nd run the getTheData.py python programm and your data will be saved in articleData folder
+
+3rd first you need to download the nltk library and its sub requirement (to download just uncomment all the download commented)
+    and run the programm it will work just fine
+
+4th Run the programm and a result_output_data_structure.xslx file will be created which will have all the data
